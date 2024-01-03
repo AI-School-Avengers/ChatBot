@@ -1,7 +1,7 @@
 # 알라딘 챗봇
 
 챗봇 시스템 개발 프로젝트
-![파일 링크 첨부](https://drive.google.com/drive/folders/1LUAE4Ys2xRR97l9uNGyd2PM8hU6lI_Zw?usp=drive_link)
+![파일 링크 첨부](https://drive.google.com/drive/folders/1LUAE4Ys2xRR97l9uNGyd2PM8hU6lI_Zw?usp=sharing)
 <br>
 
 ## 배경/목적
